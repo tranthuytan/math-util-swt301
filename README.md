@@ -1,10 +1,10 @@
-# Welcome to my Repository - math-util project
 [![CI with GitHub Actions using Ant and JUnit | © 2022 by giao.lang](https://github.com/tranthuytan/math-util-swt301/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/tranthuytan/math-util-swt301/actions/workflows/ci-junit.yml)
-
-## You will find in this repo:
-* Java project with JUnit Test
+# Welcome to my Repository - math-util project
+## You will find in this repo the following stuff:
+* The Math-Util library that offers multiple math finctions (a Java-based source code)
 * .gitignore file for Visual Studio project
 * README.md - this file itself - using Markdown language
+* GitHub Actions to demonstrate the Continuous Integration (CI) technology
 * ...
 
 ### Screenshots
