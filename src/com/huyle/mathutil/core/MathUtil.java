@@ -55,7 +55,7 @@ public class MathUtil {
     //chot: n! = n x (n-1)!
     public static long getFactorial(int n) {
         if (n < 0 || n > 20)
-            throw new IllegalArgumentException("n must be between 0..20.Plz!!!");
+            throw new IllegalArgumentException("Invalid argument. N must be between 0..20");
         if (n ==0 || n==1)
             return 1; //ket thuc cuo choi som neu nhan nhung dau vao dac biet
         return n*getFactorial(n-1);
